@@ -14,6 +14,10 @@ test run the converter against a raml file following the README.md
 
 <code>npm install -g pullr </code>
 
+3) Once you download above 2 libraries, run 
+
+<code>sh ramling.sh </code> 
+and provide your git repo name.
 
 
 ## Link to RAML standards
